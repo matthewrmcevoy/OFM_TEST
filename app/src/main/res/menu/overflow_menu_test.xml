@@ -2,6 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/screen2Fragment"
+        android:id="@+id/action_screen1Fragment_to_screen2Fragment"
         android:title="Screen2" />
+    <item
+        android:id="@+id/screen1Fragment"
+        android:title="Screen1" />
 </menu>
